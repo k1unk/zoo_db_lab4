@@ -5,8 +5,8 @@ public class Main {
 
     public static void main(String[] args) {
         start(2);
-        start(4);
-        start(8);
+        //start(4);
+        //start(8);
     }
 
     public static void start(int levelOfIsolation) {
